@@ -66,11 +66,16 @@ o	Heatmaps and bar charts depicting seasonal content addition patterns.
 ## Technologies Used
 •	Python
 o	Libraries: Pandas, Numpy, Matplotlib, Seaborn, Datetime
+
 •	Jupyter Notebook for scripting and analysis.
+
+•	Power Bi
 
 ## Future Improvements
 •	Incorporate machine learning models to predict trends in Netflix content.
+
 •	Analyze additional datasets (e.g., user ratings, viewership stats).
+
 •	Create a dashboard for real-time data visualization.
 
 ## Contributing
