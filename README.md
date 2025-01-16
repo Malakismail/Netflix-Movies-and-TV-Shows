@@ -2,6 +2,8 @@
 
 ![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/ba39ef02-e481-491f-b4e9-740ab321ef99)
 
+![Image](https://github.com/user-attachments/assets/1dca75f1-f46a-4fba-b79f-ebae2711eb50)
+
 **Project Overview**
 
 This project performs an in-depth Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset. The analysis focuses on understanding the content distribution, identifying trends, and generating insights to assist producers, content creators, and Netflix decision-makers. Key objectives include analyzing movie vs. TV show distribution, determining optimal release months, and identifying top-rated movies and their origins.
